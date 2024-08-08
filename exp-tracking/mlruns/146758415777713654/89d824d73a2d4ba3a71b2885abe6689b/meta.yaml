@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/telecom-customer-churn/exp-tracking/mlruns/146758415777713654/89d824d73a2d4ba3a71b2885abe6689b/artifacts
+end_time: 1723139184506
+entry_point_name: ''
+experiment_id: '146758415777713654'
+lifecycle_stage: active
+run_id: 89d824d73a2d4ba3a71b2885abe6689b
+run_name: valuable-stoat-395
+run_uuid: 89d824d73a2d4ba3a71b2885abe6689b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723139184496
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/telecom-customer-churn/exp-tracking/mlruns/146758415777713654/9eb16ade935c464691a349a3196e4920/artifacts
+end_time: 1723139310535
+entry_point_name: ''
+experiment_id: '146758415777713654'
+lifecycle_stage: active
+run_id: 9eb16ade935c464691a349a3196e4920
+run_name: kindly-bat-306
+run_uuid: 9eb16ade935c464691a349a3196e4920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723139310436
+status: 4
+tags: []
+user_id: codespace

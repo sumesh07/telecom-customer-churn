@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/telecom-customer-churn/exp-tracking/mlruns/146758415777713654/e74ddc63e5c44a7e9eacb4b92eb0c108/artifacts
+end_time: 1723139464500
+entry_point_name: ''
+experiment_id: '146758415777713654'
+lifecycle_stage: active
+run_id: e74ddc63e5c44a7e9eacb4b92eb0c108
+run_name: capable-mule-751
+run_uuid: e74ddc63e5c44a7e9eacb4b92eb0c108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723139462759
+status: 3
+tags: []
+user_id: codespace

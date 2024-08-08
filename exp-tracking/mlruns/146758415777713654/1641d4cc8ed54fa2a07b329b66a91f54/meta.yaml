@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/telecom-customer-churn/exp-tracking/mlruns/146758415777713654/1641d4cc8ed54fa2a07b329b66a91f54/artifacts
+end_time: 1723138916106
+entry_point_name: ''
+experiment_id: '146758415777713654'
+lifecycle_stage: active
+run_id: 1641d4cc8ed54fa2a07b329b66a91f54
+run_name: gaudy-jay-118
+run_uuid: 1641d4cc8ed54fa2a07b329b66a91f54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723138916098
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/telecom-customer-churn/exp-tracking/mlruns/146758415777713654/84bfb7dfd96a467c819c62ec1e80de0c/artifacts
+end_time: 1723139420371
+entry_point_name: ''
+experiment_id: '146758415777713654'
+lifecycle_stage: active
+run_id: 84bfb7dfd96a467c819c62ec1e80de0c
+run_name: upbeat-wren-767
+run_uuid: 84bfb7dfd96a467c819c62ec1e80de0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723139417278
+status: 3
+tags: []
+user_id: codespace
